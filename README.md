@@ -1,16 +1,29 @@
-# Introduction to Git
+# GitHub Skills · Introduction to Git
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+Repositorio de práctica creado a partir de **GitHub Skills** para aprender fundamentos de Git y GitHub.
 
-Hey jhoaoo!
+## Descripción
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+Este repositorio forma parte de un ejercicio guiado de GitHub orientado a practicar conceptos básicos de control de versiones, creación de commits, ramas, pull requests y flujo de trabajo colaborativo.
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## Objetivos de aprendizaje
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/jhoaoo/skills-introduction-to-git/issues/1)
+- Comprender el flujo básico de Git.
+- Practicar commits y cambios versionados.
+- Conocer el uso de issues y pull requests.
+- Familiarizarse con la plataforma GitHub.
 
----
+## Ejercicio original
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+El ejercicio guiado puede revisarse desde el issue principal del repositorio:
 
+[Ir al ejercicio](https://github.com/jhoaoo/skills-introduction-to-git/issues/1)
+
+## Valor para portafolio
+
+Aunque es un repositorio de práctica, demuestra el inicio del manejo de GitHub como herramienta de control de versiones y organización de proyectos.
+
+## Autor
+
+**Jhoaoo Sebastián Llerena Quispe**  
+Ingeniería de Sistemas · UCSM
